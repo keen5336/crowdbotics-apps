@@ -1,0 +1,14 @@
+.details {
+    background-color: #282c34;
+    padding: 2rem;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+  }
+.details h3 {
+  color: white;
+}
+.details .button {
+    margin-left: 2rem;
+}
